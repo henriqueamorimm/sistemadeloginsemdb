@@ -1,0 +1,15 @@
+D:\MeusProjetosVisualStudioC#\MeuProjetoV3\MeuProjetoV3\obj\Debug\net7.0\MeuProjetoV3.csproj.AssemblyReference.cache
+D:\MeusProjetosVisualStudioC#\MeuProjetoV3\MeuProjetoV3\obj\Debug\net7.0\MeuProjetoV3.GeneratedMSBuildEditorConfig.editorconfig
+D:\MeusProjetosVisualStudioC#\MeuProjetoV3\MeuProjetoV3\obj\Debug\net7.0\MeuProjetoV3.AssemblyInfoInputs.cache
+D:\MeusProjetosVisualStudioC#\MeuProjetoV3\MeuProjetoV3\obj\Debug\net7.0\MeuProjetoV3.AssemblyInfo.cs
+D:\MeusProjetosVisualStudioC#\MeuProjetoV3\MeuProjetoV3\obj\Debug\net7.0\MeuProjetoV3.csproj.CoreCompileInputs.cache
+D:\MeusProjetosVisualStudioC#\MeuProjetoV3\MeuProjetoV3\bin\Debug\net7.0\MeuProjetoV3.exe
+D:\MeusProjetosVisualStudioC#\MeuProjetoV3\MeuProjetoV3\bin\Debug\net7.0\MeuProjetoV3.deps.json
+D:\MeusProjetosVisualStudioC#\MeuProjetoV3\MeuProjetoV3\bin\Debug\net7.0\MeuProjetoV3.runtimeconfig.json
+D:\MeusProjetosVisualStudioC#\MeuProjetoV3\MeuProjetoV3\bin\Debug\net7.0\MeuProjetoV3.dll
+D:\MeusProjetosVisualStudioC#\MeuProjetoV3\MeuProjetoV3\bin\Debug\net7.0\MeuProjetoV3.pdb
+D:\MeusProjetosVisualStudioC#\MeuProjetoV3\MeuProjetoV3\obj\Debug\net7.0\MeuProjetoV3.dll
+D:\MeusProjetosVisualStudioC#\MeuProjetoV3\MeuProjetoV3\obj\Debug\net7.0\refint\MeuProjetoV3.dll
+D:\MeusProjetosVisualStudioC#\MeuProjetoV3\MeuProjetoV3\obj\Debug\net7.0\MeuProjetoV3.pdb
+D:\MeusProjetosVisualStudioC#\MeuProjetoV3\MeuProjetoV3\obj\Debug\net7.0\MeuProjetoV3.genruntimeconfig.cache
+D:\MeusProjetosVisualStudioC#\MeuProjetoV3\MeuProjetoV3\obj\Debug\net7.0\ref\MeuProjetoV3.dll
